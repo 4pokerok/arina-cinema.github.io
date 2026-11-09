@@ -149,8 +149,8 @@
     function openQuizHall(room){if(transitioning)return;closeQuiz();lobby.classList.remove('active');renderFloor(halls[room].floor);tickets.classList.add('active');openWorld(room,halls[room].color);}
     const [program,filmNotes]=await Promise.all([fetch('assets/program.json').then(response=>{if(!response.ok)throw new Error('program');return response.json();}),fetch('assets/descriptions.json').then(response=>response.ok?response.json():{}).catch(()=>({}))]);
     Object.values(halls).forEach(hall=>{if(program[hall.room]?.length===19)hall.films=program[hall.room];});
-    const posterSource=(room,index)=>`assets/program-posters/${room}-${String(index+1).padStart(2,'0')}.jpg`;
-    const curatedTextPosters=new Set(['04-15.jpg','06-06.jpg','13-10.jpg','13-18.jpg','13-19.jpg','14-19.jpg','16-05.jpg','18-11.jpg']);
+    const posterSource=(room,index)=>`assets/program-posters/${room}-${String(index+1).padStart(2,'0')}.jpg?v=20261109b`;
+    const curatedTextPosters=new Set(['11-12.jpg','13-03.jpg','13-10.jpg','13-11.jpg','13-13.jpg','13-18.jpg','13-19.jpg','14-10.jpg']);
     const warmedRooms=new Set();
     function warmHallPosters(room){if(warmedRooms.has(room))return;warmedRooms.add(room);const hall=halls[room];hall.films.forEach((_,index)=>{const image=new Image();image.decoding='async';image.fetchPriority=index<3?'high':'low';image.src=posterSource(room,index);});}
     const drops=[34,81,16,96,53,82,28],angles=[[-1.6,1.3],[1.7,-1.4],[-1.9,1.5],[1.4,-1.7],[-1.6,1.8],[1.7,-1.4],[-1.1,1.5]];
