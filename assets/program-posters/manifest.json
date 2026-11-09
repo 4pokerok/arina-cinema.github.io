@@ -1,0 +1,3256 @@
+[
+  {
+    "room": "10",
+    "film": {
+      "title": "Величайший шоумен",
+      "year": "2017"
+    },
+    "file": "10-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Чикаго",
+      "year": "2002"
+    },
+    "file": "10-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Эвита",
+      "year": "1996"
+    },
+    "file": "10-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Мулен Руж!",
+      "year": "2001"
+    },
+    "file": "10-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Ла-Ла Ленд",
+      "year": "2016"
+    },
+    "file": "10-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Богемская рапсодия",
+      "year": "2018"
+    },
+    "file": "10-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Mamma Mia!",
+      "year": "2008"
+    },
+    "file": "10-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Кабаре",
+      "year": "1972"
+    },
+    "file": "10-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Певец на свадьбе",
+      "year": "1998"
+    },
+    "file": "10-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Вестсайдская история",
+      "year": "2021"
+    },
+    "file": "10-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Джуди",
+      "year": "2019"
+    },
+    "file": "10-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Звезда родилась",
+      "year": "2018"
+    },
+    "file": "10-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Дорогой Эван Хансен",
+      "year": "2021"
+    },
+    "file": "10-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Богема",
+      "year": "2005"
+    },
+    "file": "10-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Одержимость",
+      "year": "2014"
+    },
+    "file": "10-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Мэри Поппинс",
+      "year": "1964"
+    },
+    "file": "10-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Волшебник страны Оз",
+      "year": "1939"
+    },
+    "file": "10-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Суини Тодд: Демон-парикмахер с Флит-стрит",
+      "year": "2007"
+    },
+    "file": "10-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "10",
+    "film": {
+      "title": "Билли Эллиот",
+      "year": "2000"
+    },
+    "file": "10-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Помни",
+      "year": "2000"
+    },
+    "file": "11-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Довод",
+      "year": "2020"
+    },
+    "file": "11-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Престиж",
+      "year": "2006"
+    },
+    "file": "11-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Начало",
+      "year": "2010"
+    },
+    "file": "11-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Семь",
+      "year": "1995"
+    },
+    "file": "11-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Исчезнувшая",
+      "year": "2014"
+    },
+    "file": "11-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Молчание ягнят",
+      "year": "1991"
+    },
+    "file": "11-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Матрица",
+      "year": "1999"
+    },
+    "file": "11-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Остров проклятых",
+      "year": "2010"
+    },
+    "file": "11-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Паприка",
+      "year": "2006"
+    },
+    "file": "11-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Прибытие",
+      "year": "2016"
+    },
+    "file": "11-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Исходный код",
+      "year": "2011"
+    },
+    "file": "11-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Донни Дарко",
+      "year": "2001"
+    },
+    "file": "11-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Мистер Никто",
+      "year": "2009"
+    },
+    "file": "11-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Идеальные незнакомцы",
+      "year": "2016"
+    },
+    "file": "11-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Тринадцатый этаж",
+      "year": "1999"
+    },
+    "file": "11-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Куб",
+      "year": "1997"
+    },
+    "file": "11-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Малхолланд Драйв",
+      "year": "2001"
+    },
+    "file": "11-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "11",
+    "film": {
+      "title": "Апгрейд",
+      "year": "2018"
+    },
+    "file": "11-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Достать ножи",
+      "year": "2019"
+    },
+    "file": "12-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Достать ножи 2: Стеклянный лук",
+      "year": "2022"
+    },
+    "file": "12-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Убийство в «Восточном экспрессе»",
+      "year": "2017"
+    },
+    "file": "12-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Смерть на Ниле",
+      "year": "2022"
+    },
+    "file": "12-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Зодиак",
+      "year": "2007"
+    },
+    "file": "12-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Секрет в его глазах",
+      "year": "2009"
+    },
+    "file": "12-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Загадочное убийство",
+      "year": "2019"
+    },
+    "file": "12-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Идентификация",
+      "year": "2003"
+    },
+    "file": "12-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Шерлок Холмс",
+      "year": "2009"
+    },
+    "file": "12-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Готика",
+      "year": "2003"
+    },
+    "file": "12-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Психо",
+      "year": "1960"
+    },
+    "file": "12-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Прежде чем я усну",
+      "year": "2014"
+    },
+    "file": "12-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Шерлок Холмс: Игра теней",
+      "year": "2011"
+    },
+    "file": "12-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Исчезнувшая",
+      "year": "2014"
+    },
+    "file": "12-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Семь",
+      "year": "1995"
+    },
+    "file": "12-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Молчание ягнят",
+      "year": "1991"
+    },
+    "file": "12-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Идеальные незнакомцы",
+      "year": "2016"
+    },
+    "file": "12-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Красный дракон",
+      "year": "2002"
+    },
+    "file": "12-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Сто лет тому вперёд",
+      "year": "2024"
+    },
+    "file": "13-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "12",
+    "film": {
+      "title": "Поймай меня, если сможешь",
+      "year": "2002"
+    },
+    "file": "12-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Страна Саша",
+      "year": "2022"
+    },
+    "file": "13-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Анора",
+      "year": "2024"
+    },
+    "file": "13-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Гостья из будущего (сериал, 2024)",
+      "year": ""
+    },
+    "file": "13-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Праведник",
+      "year": "2023"
+    },
+    "file": "13-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Монастырь (сериал, 2022)",
+      "year": ""
+    },
+    "file": "13-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Первый снег",
+      "year": "2021"
+    },
+    "file": "13-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Фарма (сериал, 2024)",
+      "year": ""
+    },
+    "file": "13-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Чистые (сериал, 2024)",
+      "year": ""
+    },
+    "file": "13-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Иностранщина",
+      "year": "2021"
+    },
+    "file": "13-10.jpg",
+    "status": "unresolved",
+    "error": "itunes poster not found"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Настоящие (сериал, 2024)",
+      "year": ""
+    },
+    "file": "13-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Шестнадцать+",
+      "year": "2021"
+    },
+    "file": "13-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Сама дура (сериал, 2020)",
+      "year": ""
+    },
+    "file": "13-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Буратино",
+      "year": "2026"
+    },
+    "file": "13-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Путешествие на солнце и обратно",
+      "year": "2025"
+    },
+    "file": "13-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Смычок (короткометражка)",
+      "year": ""
+    },
+    "file": "13-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Краш",
+      "year": "2021"
+    },
+    "file": "13-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Слот №19 — за будущими ролями",
+      "year": ""
+    },
+    "file": "13-19.jpg",
+    "status": "unresolved",
+    "error": "itunes poster not found"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Стать Джоном Ленноном",
+      "year": "2009"
+    },
+    "file": "14-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Анна Каренина",
+      "year": "2012"
+    },
+    "file": "14-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Пипец 2",
+      "year": "2013"
+    },
+    "file": "14-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Годзилла",
+      "year": "2014"
+    },
+    "file": "14-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Иллюзионист",
+      "year": "2006"
+    },
+    "file": "14-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "13",
+    "film": {
+      "title": "Дубляж: голос за кадром",
+      "year": ""
+    },
+    "file": "13-18.jpg",
+    "status": "unresolved",
+    "error": "itunes poster not found"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Пипец",
+      "year": "2010"
+    },
+    "file": "14-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Мстители: Эра Альтрона",
+      "year": "2015"
+    },
+    "file": "14-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Довод",
+      "year": "2020"
+    },
+    "file": "14-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Под покровом ночи",
+      "year": "2016"
+    },
+    "file": "14-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Стена",
+      "year": "2017"
+    },
+    "file": "14-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Носферату",
+      "year": "2024"
+    },
+    "file": "14-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Миллион маленьких кусочков",
+      "year": "2018"
+    },
+    "file": "14-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Кравен-охотник",
+      "year": "2024"
+    },
+    "file": "14-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "28 лет спустя",
+      "year": "2025"
+    },
+    "file": "14-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Матрица",
+      "year": "1999"
+    },
+    "file": "15-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Ограбить Лондон",
+      "year": "2025"
+    },
+    "file": "14-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Шанхайские рыцари",
+      "year": "2003"
+    },
+    "file": "14-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Чат",
+      "year": "2010"
+    },
+    "file": "14-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Оборотень / Werwulf",
+      "year": "2026"
+    },
+    "file": "14-19.jpg",
+    "status": "unresolved",
+    "error": "itunes poster not found"
+  },
+  {
+    "room": "14",
+    "film": {
+      "title": "Быстрее пули",
+      "year": "2022"
+    },
+    "file": "14-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Терминатор 2: Судный день",
+      "year": "1991"
+    },
+    "file": "15-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Парк Юрского периода",
+      "year": "1993"
+    },
+    "file": "15-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Пятый элемент",
+      "year": "1997"
+    },
+    "file": "15-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Люди в чёрном",
+      "year": "1997"
+    },
+    "file": "15-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Схватка",
+      "year": "1995"
+    },
+    "file": "15-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Правдивая ложь",
+      "year": "1994"
+    },
+    "file": "15-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Скорость",
+      "year": "1994"
+    },
+    "file": "15-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Леон",
+      "year": "1994"
+    },
+    "file": "15-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Бойцовский клуб",
+      "year": "1999"
+    },
+    "file": "15-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Криминальное чтиво",
+      "year": "1994"
+    },
+    "file": "15-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "10 причин моей ненависти",
+      "year": "1999"
+    },
+    "file": "15-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Ноттинг Хилл",
+      "year": "1999"
+    },
+    "file": "15-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Титаник",
+      "year": "1997"
+    },
+    "file": "15-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Тупой и ещё тупее",
+      "year": "1994"
+    },
+    "file": "15-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Маска",
+      "year": "1994"
+    },
+    "file": "15-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Американская история X",
+      "year": "1998"
+    },
+    "file": "15-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Гладиатор",
+      "year": "2000"
+    },
+    "file": "15-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "15",
+    "film": {
+      "title": "Клетка",
+      "year": "2000"
+    },
+    "file": "15-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Рататуй",
+      "year": "2007"
+    },
+    "file": "16-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Джули и Джулия",
+      "year": "2008"
+    },
+    "file": "16-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Пир Бабетты",
+      "year": "1987"
+    },
+    "file": "16-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Повар на колёсах",
+      "year": "2014"
+    },
+    "file": "16-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Пряности и страсти",
+      "year": "2014"
+    },
+    "file": "16-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Шоколад",
+      "year": "2000"
+    },
+    "file": "16-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Шеф",
+      "year": "2012"
+    },
+    "file": "16-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Чарли и шоколадная фабрика",
+      "year": "2005"
+    },
+    "file": "16-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Деликатесы",
+      "year": "1991"
+    },
+    "file": "16-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Суп из капусты",
+      "year": "1981"
+    },
+    "file": "16-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Тост",
+      "year": "2010"
+    },
+    "file": "16-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Меню",
+      "year": "2022"
+    },
+    "file": "16-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Кофе и сигареты",
+      "year": "2003"
+    },
+    "file": "16-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Ужин с придурками",
+      "year": "2010"
+    },
+    "file": "16-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Завтрак у Тиффани",
+      "year": "1961"
+    },
+    "file": "16-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Кухня в Париже",
+      "year": "2014"
+    },
+    "file": "16-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Ешь, молись, люби",
+      "year": "2010"
+    },
+    "file": "16-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Гравитация",
+      "year": "2013"
+    },
+    "file": "17-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Тайна Коко",
+      "year": "2017"
+    },
+    "file": "16-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Марсианин",
+      "year": "2015"
+    },
+    "file": "17-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "16",
+    "film": {
+      "title": "Ужин",
+      "year": "2017"
+    },
+    "file": "16-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Прибытие",
+      "year": "2016"
+    },
+    "file": "17-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Аполлон-13",
+      "year": "1995"
+    },
+    "file": "17-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Интерстеллар",
+      "year": "2014"
+    },
+    "file": "17-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Луна 2112",
+      "year": "2009"
+    },
+    "file": "17-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Контакт",
+      "year": "1997"
+    },
+    "file": "17-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Сквозь горизонт",
+      "year": "1997"
+    },
+    "file": "17-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Солярис",
+      "year": "1972"
+    },
+    "file": "17-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Пассажиры",
+      "year": "2016"
+    },
+    "file": "17-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Живое",
+      "year": "2017"
+    },
+    "file": "17-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Чужой",
+      "year": "1979"
+    },
+    "file": "17-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Пятый элемент",
+      "year": "1997"
+    },
+    "file": "17-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Аватар",
+      "year": "2009"
+    },
+    "file": "17-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Звёздные войны: Новая надежда",
+      "year": "1977"
+    },
+    "file": "17-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "2001: Космическая одиссея",
+      "year": "1968"
+    },
+    "file": "17-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Столкновение с бездной",
+      "year": "1998"
+    },
+    "file": "17-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "1+1",
+      "year": "2011"
+    },
+    "file": "18-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "К звёздам",
+      "year": "2019"
+    },
+    "file": "17-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Общество мёртвых поэтов",
+      "year": "1989"
+    },
+    "file": "18-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "В погоне за счастьем",
+      "year": "2006"
+    },
+    "file": "18-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "17",
+    "film": {
+      "title": "Дюна",
+      "year": "2021"
+    },
+    "file": "17-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Билли Эллиот",
+      "year": "2000"
+    },
+    "file": "18-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Лак для волос",
+      "year": "1988"
+    },
+    "file": "18-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Тайна Коко",
+      "year": "2017"
+    },
+    "file": "18-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Прочь вперёд",
+      "year": "2020"
+    },
+    "file": "18-11.jpg",
+    "status": "unresolved",
+    "error": "itunes poster not found"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Маленькая мисс Счастье",
+      "year": "2006"
+    },
+    "file": "18-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Невидимая сторона",
+      "year": "2009"
+    },
+    "file": "18-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Стажёр",
+      "year": "2015"
+    },
+    "file": "18-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Мирный воин",
+      "year": "2006"
+    },
+    "file": "18-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Лев",
+      "year": "2016"
+    },
+    "file": "18-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Хористы",
+      "year": "2004"
+    },
+    "file": "18-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Чудо",
+      "year": "2017"
+    },
+    "file": "18-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Одарённая",
+      "year": "2017"
+    },
+    "file": "18-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Рокки",
+      "year": "1976"
+    },
+    "file": "18-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Умница Уилл Хантинг",
+      "year": "1997"
+    },
+    "file": "18-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Форд против Феррари",
+      "year": "2019"
+    },
+    "file": "18-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "18",
+    "film": {
+      "title": "Джуди",
+      "year": "2019"
+    },
+    "file": "18-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Волк с Уолл-стрит",
+      "year": "2013"
+    },
+    "file": "19-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Наследник",
+      "year": "2024"
+    },
+    "file": "19-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Эскобар",
+      "year": "2017"
+    },
+    "file": "19-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Социальная сеть",
+      "year": "2010"
+    },
+    "file": "19-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Грязные деньги",
+      "year": "2026"
+    },
+    "file": "19-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Побег из Шоушенка",
+      "year": "1994"
+    },
+    "file": "19-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Светская жизнь",
+      "year": "2016"
+    },
+    "file": "19-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Собачий полдень",
+      "year": "1975"
+    },
+    "file": "19-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Мой парень — псих",
+      "year": "2012"
+    },
+    "file": "19-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Таксист",
+      "year": "1976"
+    },
+    "file": "19-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Умница Уилл Хантинг",
+      "year": "1997"
+    },
+    "file": "19-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Догвилль",
+      "year": "2003"
+    },
+    "file": "19-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Зелёная миля",
+      "year": "1999"
+    },
+    "file": "19-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Почему мы креативны",
+      "year": "2018"
+    },
+    "file": "19-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Соавторы",
+      "year": "2026"
+    },
+    "file": "19-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Мальчишник в Вегасе",
+      "year": "2009"
+    },
+    "file": "19-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Крэйвен-охотник",
+      "year": "2024"
+    },
+    "file": "19-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Дневник баскетболиста",
+      "year": "1995"
+    },
+    "file": "19-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "19",
+    "film": {
+      "title": "Материалистка",
+      "year": "2025"
+    },
+    "file": "19-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Один дома 2: Затерянные в Нью-Йорке",
+      "year": "1992"
+    },
+    "file": "01-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Гарри Поттер и философский камень",
+      "year": "2001"
+    },
+    "file": "01-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Один дома",
+      "year": "1990"
+    },
+    "file": "01-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Красавица и Чудовище",
+      "year": "1991"
+    },
+    "file": "01-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Вверх",
+      "year": "2009"
+    },
+    "file": "01-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Рататуй",
+      "year": "2007"
+    },
+    "file": "01-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Головоломка",
+      "year": "2015"
+    },
+    "file": "01-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Ночь в музее",
+      "year": "2006"
+    },
+    "file": "01-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Похождение императора",
+      "year": "2000"
+    },
+    "file": "01-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Чарли и шоколадная фабрика",
+      "year": "2005"
+    },
+    "file": "01-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Зверополис",
+      "year": "2016"
+    },
+    "file": "01-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Пираты Карибского моря: Проклятие «Чёрной жемчужины»",
+      "year": "2003"
+    },
+    "file": "01-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Король Лев",
+      "year": "1994"
+    },
+    "file": "01-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Мадагаскар",
+      "year": "2005"
+    },
+    "file": "01-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Энканто",
+      "year": "2021"
+    },
+    "file": "01-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Паддингтон",
+      "year": "2014"
+    },
+    "file": "01-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Лови волну",
+      "year": "2007"
+    },
+    "file": "01-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Моана",
+      "year": "2016"
+    },
+    "file": "01-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "01",
+    "film": {
+      "title": "Джейк и пираты Нетландии",
+      "year": "2011-2016"
+    },
+    "file": "01-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Ла-Ла Ленд",
+      "year": "2016"
+    },
+    "file": "02-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Вечное сияние чистого разума",
+      "year": "2004"
+    },
+    "file": "02-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Гордость и предубеждение",
+      "year": "2005"
+    },
+    "file": "02-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Один день",
+      "year": "2011"
+    },
+    "file": "02-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Всегда говори «да»",
+      "year": "2008"
+    },
+    "file": "02-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Ромео + Джульетта",
+      "year": "1996"
+    },
+    "file": "02-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Дневник памяти",
+      "year": "2004"
+    },
+    "file": "02-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Загадочная история Бенджамина Баттона",
+      "year": "2008"
+    },
+    "file": "02-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Красотка",
+      "year": "1990"
+    },
+    "file": "02-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Неспящие в Сиэтле",
+      "year": "1993"
+    },
+    "file": "02-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "За бортом",
+      "year": "1987"
+    },
+    "file": "02-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Между небом и землёй",
+      "year": "2005"
+    },
+    "file": "02-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Ты водишь!",
+      "year": "2021"
+    },
+    "file": "02-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Кейт и Лео",
+      "year": "2001"
+    },
+    "file": "02-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "А поцелуи?",
+      "year": "2007"
+    },
+    "file": "02-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Секс по дружбе",
+      "year": "2011"
+    },
+    "file": "02-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Титаник",
+      "year": "1997"
+    },
+    "file": "02-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Реальная любовь",
+      "year": "2003"
+    },
+    "file": "02-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "02",
+    "film": {
+      "title": "Матч Пойнт",
+      "year": "2005"
+    },
+    "file": "02-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Тупой и ещё тупее",
+      "year": "1994"
+    },
+    "file": "03-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Мальчишник в Вегасе",
+      "year": "2009"
+    },
+    "file": "03-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Американский пирог",
+      "year": "1999"
+    },
+    "file": "03-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Суперперцы",
+      "year": "2007"
+    },
+    "file": "03-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Мачо и ботан",
+      "year": "2012"
+    },
+    "file": "03-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Час пик",
+      "year": "1998"
+    },
+    "file": "03-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Мы — Миллеры",
+      "year": "2013"
+    },
+    "file": "03-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Шанхайский полдень",
+      "year": "2000"
+    },
+    "file": "03-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Большой Лебовски",
+      "year": "1998"
+    },
+    "file": "03-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Телохранитель киллера",
+      "year": "2017"
+    },
+    "file": "03-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Бриллиантовая рука",
+      "year": "1968"
+    },
+    "file": "03-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Достать ножи",
+      "year": "2019"
+    },
+    "file": "03-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Шеф",
+      "year": "2012"
+    },
+    "file": "03-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Смертельное оружие",
+      "year": "1987"
+    },
+    "file": "03-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Очень плохие мамочки",
+      "year": "2016"
+    },
+    "file": "03-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Час пик 2",
+      "year": "2001"
+    },
+    "file": "03-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Ирония судьбы, или С лёгким паром!",
+      "year": "1975"
+    },
+    "file": "04-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Иван Васильевич меняет профессию",
+      "year": "1973"
+    },
+    "file": "03-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Джентльмены удачи",
+      "year": "1971"
+    },
+    "file": "03-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Один дома",
+      "year": "1990"
+    },
+    "file": "04-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "03",
+    "film": {
+      "title": "Криминальное чтиво",
+      "year": "1994"
+    },
+    "file": "03-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Реальная любовь",
+      "year": "2003"
+    },
+    "file": "04-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "День сурка",
+      "year": "1993"
+    },
+    "file": "04-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Хроники Нарнии: Лев, колдунья и платяной шкаф",
+      "year": "2005"
+    },
+    "file": "04-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Гарри Поттер и кубок огня",
+      "year": "2005"
+    },
+    "file": "04-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Сумерки",
+      "year": "2008"
+    },
+    "file": "04-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Рождественская история",
+      "year": "2009"
+    },
+    "file": "04-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Отель «Гранд Будапешт»",
+      "year": "2014"
+    },
+    "file": "04-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Маленькие женщины",
+      "year": "2019"
+    },
+    "file": "04-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Хатико",
+      "year": "2009"
+    },
+    "file": "04-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Полярный экспресс",
+      "year": "2004"
+    },
+    "file": "04-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Пока не ты",
+      "year": "2024"
+    },
+    "file": "04-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Первый встречный",
+      "year": "2020"
+    },
+    "file": "04-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "8 первых свиданий",
+      "year": "2012"
+    },
+    "file": "04-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Достать ножи",
+      "year": "2019"
+    },
+    "file": "04-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Восхождение",
+      "year": "2021"
+    },
+    "file": "04-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Стажёр",
+      "year": "2015"
+    },
+    "file": "04-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "04",
+    "film": {
+      "title": "Холодное сердце",
+      "year": "2013"
+    },
+    "file": "04-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Хатико",
+      "year": "2009"
+    },
+    "file": "05-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Виноваты звёзды",
+      "year": "2014"
+    },
+    "file": "05-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Форрест Гамп",
+      "year": "1994"
+    },
+    "file": "05-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Побег из Шоушенка",
+      "year": "1994"
+    },
+    "file": "05-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Жизнь прекрасна",
+      "year": "1997"
+    },
+    "file": "05-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Зелёная миля",
+      "year": "1999"
+    },
+    "file": "05-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Маленькие женщины",
+      "year": "2019"
+    },
+    "file": "05-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "1+1",
+      "year": "2011"
+    },
+    "file": "05-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Ла-Ла Ленд",
+      "year": "2016"
+    },
+    "file": "05-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Загадочная история Бенджамина Баттона",
+      "year": "2008"
+    },
+    "file": "05-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Титаник",
+      "year": "1997"
+    },
+    "file": "05-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Хористы",
+      "year": "2004"
+    },
+    "file": "05-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Мосты округа Мэдисон",
+      "year": "1995"
+    },
+    "file": "05-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Тайна Коко",
+      "year": "2017"
+    },
+    "file": "05-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "В погоне за счастьем",
+      "year": "2006"
+    },
+    "file": "05-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Зови меня своим именем",
+      "year": "2017"
+    },
+    "file": "05-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Мой мальчик",
+      "year": "2002"
+    },
+    "file": "05-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Оно",
+      "year": "2017"
+    },
+    "file": "06-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Комната",
+      "year": "2015"
+    },
+    "file": "05-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Астрал",
+      "year": "2010"
+    },
+    "file": "06-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "05",
+    "film": {
+      "title": "Терминал",
+      "year": "2004"
+    },
+    "file": "05-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Синистер",
+      "year": "2012"
+    },
+    "file": "06-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Зловещие мертвецы",
+      "year": "2013"
+    },
+    "file": "06-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Призраки",
+      "year": "2001"
+    },
+    "file": "06-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Пункт назначения",
+      "year": "2000"
+    },
+    "file": "06-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Сонник",
+      "year": "2018"
+    },
+    "file": "06-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Солнцестояние",
+      "year": "2019"
+    },
+    "file": "06-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Психо",
+      "year": "1960"
+    },
+    "file": "06-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Крик",
+      "year": "1996"
+    },
+    "file": "06-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Носферату",
+      "year": "2024"
+    },
+    "file": "06-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Хэллоуин",
+      "year": "1978"
+    },
+    "file": "06-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Заклятие",
+      "year": "2013"
+    },
+    "file": "06-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Тихое место",
+      "year": "2018"
+    },
+    "file": "06-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Грешники",
+      "year": "2025"
+    },
+    "file": "06-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Носферату",
+      "year": "1922"
+    },
+    "file": "06-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Сияние",
+      "year": "1980"
+    },
+    "file": "06-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Тихое место 2",
+      "year": "2020"
+    },
+    "file": "06-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "06",
+    "film": {
+      "title": "Прочь",
+      "year": "2017"
+    },
+    "file": "06-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Вечное сияние чистого разума",
+      "year": "2004"
+    },
+    "file": "07-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Ла-Ла Ленд",
+      "year": "2016"
+    },
+    "file": "07-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Ешь, молись, люби",
+      "year": "2010"
+    },
+    "file": "07-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "500 дней лета",
+      "year": "2009"
+    },
+    "file": "07-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Бруклин",
+      "year": "2015"
+    },
+    "file": "07-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Начать сначала",
+      "year": "2020"
+    },
+    "file": "07-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Материалистка",
+      "year": "2025"
+    },
+    "file": "07-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Матч Пойнт",
+      "year": "2005"
+    },
+    "file": "07-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Кейт и Лео",
+      "year": "2001"
+    },
+    "file": "07-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Дневник памяти",
+      "year": "2004"
+    },
+    "file": "07-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Гордость и предубеждение",
+      "year": "2005"
+    },
+    "file": "07-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Один день",
+      "year": "2011"
+    },
+    "file": "07-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Мой парень — псих",
+      "year": "2012"
+    },
+    "file": "07-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Реальная любовь",
+      "year": "2003"
+    },
+    "file": "07-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Мой мальчик",
+      "year": "2002"
+    },
+    "file": "07-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Первый мститель",
+      "year": "2011"
+    },
+    "file": "08-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Лучшее во мне",
+      "year": "2014"
+    },
+    "file": "07-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Секс в большом городе",
+      "year": "2008"
+    },
+    "file": "07-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Первый мститель: Противостояние",
+      "year": "2016"
+    },
+    "file": "08-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Первый мститель: Другая война",
+      "year": "2014"
+    },
+    "file": "08-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Железный человек 2",
+      "year": "2010"
+    },
+    "file": "08-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Любовь и другие лекарства",
+      "year": "2010"
+    },
+    "file": "07-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Железный человек",
+      "year": "2008"
+    },
+    "file": "08-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "07",
+    "film": {
+      "title": "Простые сложности",
+      "year": "2009"
+    },
+    "file": "07-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Тор",
+      "year": "2011"
+    },
+    "file": "08-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Железный человек 3",
+      "year": "2013"
+    },
+    "file": "08-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Тор 2: Царство тьмы",
+      "year": "2013"
+    },
+    "file": "08-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Мстители: Эра Альтрона",
+      "year": "2015"
+    },
+    "file": "08-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Тор: Рагнарёк",
+      "year": "2017"
+    },
+    "file": "08-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Мстители",
+      "year": "2012"
+    },
+    "file": "08-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Мстители: Война бесконечности",
+      "year": "2018"
+    },
+    "file": "08-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Стражи Галактики. Часть 2",
+      "year": "2017"
+    },
+    "file": "08-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Стражи Галактики",
+      "year": "2014"
+    },
+    "file": "08-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Мстители: Финал",
+      "year": "2019"
+    },
+    "file": "08-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Доктор Стрэндж",
+      "year": "2016"
+    },
+    "file": "08-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Человек-паук: Возвращение домой",
+      "year": "2017"
+    },
+    "file": "08-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Капитан Марвел",
+      "year": "2019"
+    },
+    "file": "08-19.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Что гложет Гилберта Грейпа",
+      "year": "1993"
+    },
+    "file": "09-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "08",
+    "film": {
+      "title": "Чёрная Пантера",
+      "year": "2018"
+    },
+    "file": "08-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Титаник",
+      "year": "1997"
+    },
+    "file": "09-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Поймай меня, если сможешь",
+      "year": "2002"
+    },
+    "file": "09-06.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Ромео + Джульетта",
+      "year": "1996"
+    },
+    "file": "09-03.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Авиатор",
+      "year": "2004"
+    },
+    "file": "09-07.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Дневник баскетболиста",
+      "year": "1995"
+    },
+    "file": "09-02.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Отступники",
+      "year": "2006"
+    },
+    "file": "09-08.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Остров проклятых",
+      "year": "2010"
+    },
+    "file": "09-10.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Начало",
+      "year": "2010"
+    },
+    "file": "09-11.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Пляж",
+      "year": "2000"
+    },
+    "file": "09-05.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Кровавый алмаз",
+      "year": "2006"
+    },
+    "file": "09-09.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Волк с Уолл-стрит",
+      "year": "2013"
+    },
+    "file": "09-14.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Джанго освобождённый",
+      "year": "2012"
+    },
+    "file": "09-15.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Выживший",
+      "year": "2015"
+    },
+    "file": "09-16.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Дж. Эдгар",
+      "year": "2011"
+    },
+    "file": "09-12.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Совокупность лжи",
+      "year": "2008"
+    },
+    "file": "09-18.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Великий Гэтсби",
+      "year": "2013"
+    },
+    "file": "09-13.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Однажды в Голливуде",
+      "year": "2019"
+    },
+    "file": "09-17.jpg",
+    "status": "downloaded"
+  },
+  {
+    "room": "09",
+    "film": {
+      "title": "Полное затмение",
+      "year": "1995"
+    },
+    "file": "09-19.jpg",
+    "status": "downloaded"
+  }
+]
