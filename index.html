@@ -148,7 +148,7 @@
     function openQuiz(){if(transitioning)return;quizStep=0;quizScores={cozy:0,romance:0,intrigue:0,cosmic:0};renderQuiz();quizStage.classList.add('active');quizStage.setAttribute('aria-hidden','false');}
     function answerQuiz(type){quizScores[type]=(quizScores[type]||0)+1;quizStep+=1;if(quizStep<quizQuestions.length)renderQuiz();else renderQuizResult();}
     function openQuizHall(room){if(transitioning)return;closeQuiz();lobby.classList.remove('active');renderFloor(halls[room].floor);tickets.classList.add('active');openWorld(room,halls[room].color);}
-    const [program,filmNotes]=await Promise.all([fetch('assets/program.json').then(response=>{if(!response.ok)throw new Error('program');return response.json();}),fetch('assets/descriptions.json').then(response=>response.ok?response.json():{}).catch(()=>({}))]);
+    const [program,filmNotes]=await Promise.all([fetch('assets/program.json').then(response=>{if(!response.ok)throw new Error('program');return response.json();}),fetch('assets/descriptions.json?v=20261111b').then(response=>response.ok?response.json():{}).catch(()=>({}))]);
     Object.values(halls).forEach(hall=>{if(program[hall.room]?.length===19)hall.films=program[hall.room];});
     const posterSource=(room,index)=>`assets/program-posters/${room}-${String(index+1).padStart(2,'0')}.jpg?v=20261109b`;
     const curatedTextPosters=new Set(['11-12.jpg','13-03.jpg','13-10.jpg','13-11.jpg','13-13.jpg','13-18.jpg','13-19.jpg','14-10.jpg']);
