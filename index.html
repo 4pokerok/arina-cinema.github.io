@@ -148,10 +148,10 @@
     function openQuiz(){if(transitioning)return;quizStep=0;quizScores={cozy:0,romance:0,intrigue:0,cosmic:0};renderQuiz();quizStage.classList.add('active');quizStage.setAttribute('aria-hidden','false');}
     function answerQuiz(type){quizScores[type]=(quizScores[type]||0)+1;quizStep+=1;if(quizStep<quizQuestions.length)renderQuiz();else renderQuizResult();}
     function openQuizHall(room){if(transitioning)return;closeQuiz();lobby.classList.remove('active');renderFloor(halls[room].floor);tickets.classList.add('active');openWorld(room,halls[room].color);}
-    const [program,filmNotes]=await Promise.all([fetch('assets/program.json').then(response=>{if(!response.ok)throw new Error('program');return response.json();}),fetch('assets/descriptions.json?v=20261111b').then(response=>response.ok?response.json():{}).catch(()=>({}))]);
+    const [program,filmNotes]=await Promise.all([fetch('assets/program.json').then(response=>{if(!response.ok)throw new Error('program');return response.json();}),fetch('assets/descriptions.json?v=20261112a').then(response=>response.ok?response.json():{}).catch(()=>({}))]);
     Object.values(halls).forEach(hall=>{if(program[hall.room]?.length===19)hall.films=program[hall.room];});
-    const posterSource=(room,index)=>`assets/program-posters/${room}-${String(index+1).padStart(2,'0')}.jpg?v=20261109b`;
-    const curatedTextPosters=new Set(['11-12.jpg','13-03.jpg','13-10.jpg','13-11.jpg','13-13.jpg','13-18.jpg','13-19.jpg','14-10.jpg']);
+    const posterSource=(room,index)=>`assets/program-posters/${room}-${String(index+1).padStart(2,'0')}.jpg?v=20261112a`;
+    const curatedTextPosters=new Set();
     const warmedRooms=new Set();
     function warmHallPosters(room){if(warmedRooms.has(room))return;warmedRooms.add(room);const hall=halls[room];hall.films.forEach((_,index)=>{const image=new Image();image.decoding='async';image.fetchPriority=index<3?'high':'low';image.src=posterSource(room,index);});}
     const drops=[34,81,16,96,53,82,28],angles=[[-1.6,1.3],[1.7,-1.4],[-1.9,1.5],[1.4,-1.7],[-1.6,1.8],[1.7,-1.4],[-1.1,1.5]];
